@@ -19,7 +19,7 @@ plt.rcParams['axes.unicode_minus'] = False
 plt.figure() 
 p = data.boxplot(return_type='dict')
 x = p['fliers'][0].get_xdata()
-y = p['fliers'][0].get_ydata()
+y = p['fliers'][0].get_ydata() 
 y.sort() 
 
 
