@@ -29,7 +29,7 @@ for i in range(len(x)):
   else:
     plt.annotate(y[i], xy = (x[i],y[i]), xytext=(x[i]+0.08,y[i]))
 
-plt.show() 
+plt.show()  
 
 #figure1
 
