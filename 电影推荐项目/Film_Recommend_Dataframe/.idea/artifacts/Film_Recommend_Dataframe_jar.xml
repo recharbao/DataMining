@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Film_Recommend_Dataframe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Film_Recommend_Dataframe_jar</output-path>
+    <root id="archive" name="Film_Recommend_Dataframe.jar">
+      <element id="module-output" name="Film_Recommend_Dataframe" />
+    </root>
+  </artifact>
+</component>
